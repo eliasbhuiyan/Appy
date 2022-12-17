@@ -1,0 +1,1702 @@
+@media (min-width: 1400px){ }
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    
+}
+/* -------------------------------Large Device --------------------------------- */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .main_menu{
+        background: -webkit-linear-gradient(-29deg, #c10f41 0, #233b88 100%);
+        padding: 6px 0 !important;
+    }
+    .main_menu .navbar-logo {
+        width: 70px;
+        margin-left: 25px !important;
+    }
+    .main_menu .navbar-toggler{
+        width: 55px;
+        height: 37px;
+        margin-right: 18px !important;
+        background-color: transparent;
+        border: 2px solid #fff;
+    }
+    .main_menu button i{
+        color: #fff;
+    }
+    .main_menu .navbar-toggler:focus{
+        box-shadow: none;
+    
+    }
+    .main_menu ul{
+        text-align: center;
+        gap: 0px;
+    }
+    .main_menu ul li{
+        margin: 8px 0 !important;
+    }
+    .main_menu .navbar-toggler:focus {
+        background: #fff;  
+    }
+    .main_menu .navbar-toggler:focus i{
+        color: #c10f41;
+    }
+    /* ================== menu part end ============ */
+    /* ================== banner part start ============ */
+    .banner_text h1 {
+        
+        font-size: 56px;
+       
+        
+        line-height: 72px;
+    }
+    .banner_text > p {
+        width: 530px;
+        font-size: 18px;
+      
+        line-height: 30px;
+        margin-top: 20px !important;
+    }
+   .banner_image{
+    width: 490px;
+    height: 530px;
+   }
+    
+    /* ================== banner part end ============ */
+    /* ================== about part start ============ */
+    
+    #about{
+    padding: 50px 0;
+    }
+    #abouts {
+    gap: 0px;
+    }
+    .about_item {
+    height: auto;
+    }
+    
+    .about_text h2 {
+    font-size: 30px;
+    margin-bottom: 20px !important;
+    }
+    .about_text p {
+    width: 100%;
+    line-height: 25px;
+    margin-bottom: 20px !important;
+    }
+    .item_icon {
+    margin: 0 auto 20px !important;
+    text-align: center;
+    }
+    .item_text h3 {
+    margin-bottom: 10px !important;
+    }
+    .item_text p {
+    font-size: 14px;
+    width: 100%;
+    }
+    .about_item {
+    margin-bottom: 20px;
+    }
+    .app_items_1 {
+    width: 53% !important;	
+    }
+    .app_items_2 {
+    width: 60% !important;
+    }
+    .contact_right_icon .phone {
+    margin-top: 9px !important;
+    margin-right: 9px !important ;
+    }
+    /* ================== about part end ============ */
+    /* ================== feature part start ============ */
+    
+    /* ================== feature part end ============ */
+    /* =============== bussiness part Start ============ */
+    #business {
+        padding: 50px 0;
+    }
+    .business_pic img {
+        width: 100%;
+        height: auto;
+    }
+    .business_text h4 {
+         
+            width: 100%;
+            font-size: 29px;
+            
+            text-align: center;
+        
+    }
+    .business_text p {
+        width: 100%;
+        margin-bottom: 20px !important;;
+        line-height: 25px;
+        text-align: center;
+    }
+    .business_text a {
+        font-size: 14px;
+        letter-spacing: 3px;
+        margin-bottom: 30px !important;
+        
+    }
+    .business_text {
+        text-align: center;
+    }
+    .features_text h3 {
+       
+        width: 250px;
+      
+    }
+    /* ================== bussiness part end ============ */
+    
+    /* =============== testimonial part Start ============ */
+    #testimonial {
+    padding: 50px 0;
+    
+    }
+    .common_heading h2 {
+        font-size: 30px;
+         margin-bottom: 10px;
+        }
+    
+    .common_heading p {
+        width: 100%;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .test_slide {
+        padding: 0;
+    }
+    .test_item {
+        width: 100%;
+    }
+    .test_left {
+        width: 100%;
+        padding: 0 !important;
+    }
+    .test_item .test_left .test_img img {
+        width: 40px;
+        height: 40px;
+        border: 1px solid #bf095d;
+    }
+    .test_left h4 {
+        font-weight: 400;
+        line-height: 25px;
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .test_left ul {
+        gap: 0;
+    }
+    .test_text p {
+        width: 100%;
+        font-size: 10px;
+        line-height: 15px;
+        margin-left: 5px !important;
+        margin-bottom: 10px;
+    }
+    .test_slide .slick-dots { 
+        gap: 5px;
+    }
+    .test_slide .slick-dots button {
+        width: 6px;
+        height: 6px;
+    }
+    .test_text p {
+        
+        font-size: 15px;
+        
+    }
+    /* =============== testimonial part end ============ */
+    /* =============== screenshot part Start ============ */
+    #screenshot {
+    padding: 50px 0;
+    }
+    
+     
+        /* =============== screenshot part end ============ */
+    /* =============== Statistic part Start ============ */
+    
+    #statistic {
+    padding: 50px 0;
+    }
+    .count_num h2 {
+    font-size: 30px;
+    }
+    .count_num p {
+    font-size: 16px;
+    }
+    .count_num h2 {
+        margin-top: 20px !important;
+        font-size: 50px;
+    }
+    /* ================== Statistic part end ============ */
+    /* =============== app part Start ============ */
+    #app {
+        padding: 50px 0;
+    }
+    .app_items_1 {
+        padding: 35px 0;
+        width: 95% !important;
+        height: 400px;
+        margin: 30px auto 20px !important;
+    }
+    .app_items_1 h5 {
+        font-size: 20px;
+    }
+    .app_items_1 h4 {
+        font-size: 50px;
+    }
+    ol, ul {
+        padding-left: 0;
+    }
+    .app_items_1 ul {
+        margin-bottom: 20px !important;
+    }
+    .app_items_1 ul li {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .app_items_1 a {
+        padding: 8px 10px !important;
+        margin-bottom: 20px !important;
+    }
+    .app_items_2 {
+            padding: 55px 0;    
+            height: 431px; 
+            margin: 0 auto;  
+            width: 100% !important;   
+    }
+    .app_items_2 h5 {
+        font-size: 20px;
+    }
+    .app_items_2 h4 {
+        font-size: 50px;
+    }
+    .app_items_2 ul {
+        margin-bottom: 20px !important;
+    }
+    .app_items_2 a {
+        padding: 8px 10px !important;
+        margin-bottom: 20px !important;
+    }
+    
+    /* ================== app part end ============ */
+    /* =================================
+            video part start 
+    =================================  */
+    #video {
+    padding: 50px 0;
+    }
+    #video .vdo_heading h2 {
+    font-size: 25px;
+    }
+    #video .vdo_heading p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 15px;
+    margin: 10px auto !important;
+    }
+    .app_items_2 ul li {
+    font-size: 16px;
+    line-height: 30px;  
+    }
+    /* =================================
+            video part end 
+    =================================  */
+    /* =============== team part Start ============ */
+    #team {
+    padding: 50px 0;
+    }
+    
+    /* ================== team part end ============ */
+    /* =============== call part Start ============ */
+    #Call {
+        padding: 50px 0;
+    }
+    .common_heading h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    /* ================== call part end ============ */
+    /* =============== blog part Start ============ */
+    #blog {
+    padding: 50px 0 !important;
+    }
+    .blog_img h3 {
+    margin-left: 10px !important;
+    padding: 10px 0 15px !important;
+    font-size: 16px;
+    text-align: center;
+    }
+    .blog_img{
+    margin: 0 auto;
+    margin-left: -50px;
+    }
+    .blog_list {
+    gap: 10px;
+    }
+    .blog_text p {
+    width: 100%;
+    padding: 10px 5px !important;
+    font-size: 12px;
+    }
+    .blog_btn a {
+    
+    text-align: center;
+    }
+    .blog_slider .slick-dots {
+    gap: 10px;
+    }
+    .w-100 {
+    width: 100% !important;
+    }
+    .blog_slider .slick-dots button {
+    
+    height: 12px;
+    width: 12px;
+    
+    }
+    
+    /* ================== blog part end ============ */
+    /* =============== subscribe part Start ============ */
+    #subscribe {
+        padding: 50px 0;
+    }
+    .sub_label input {
+        font-size: 12px;
+        margin-left: 15px;
+    }
+    .sub_label button {
+        padding: 9.5px 20px;
+        font-size: 14px;
+    }
+    
+    /* ================== subscribe part end ============ */
+    /* =============== faq part Start ============ */
+    #faq {
+        padding: 50px 0;
+    }
+    .drop_down_part {
+        margin-top: 10px !important;
+    }
+    .drop_down_part li {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .drop_down_item span {
+        font-size: 12px;
+        line-height: 10px;
+    }
+    /* ================== faq part end ============ */
+     /* ================== get in touch part start ============ */
+     #getintouch {
+        padding: 50px 0;
+    }
+    #getintouch .form-control {
+        height: 35px;
+    }
+    
+}
+/* -----------------------------medium device--------------------------- */
+@media (min-width: 768px) and (max-width: 991.98px) {
+ /* ================== menu part start ============ */
+ .main_menu{
+    background: -webkit-linear-gradient(-29deg, #c10f41 0, #233b88 100%);
+    padding: 6px 0 !important;
+}
+.main_menu .navbar-logo {
+    width: 70px;
+    margin-left: 25px !important;
+}
+.main_menu .navbar-toggler{
+    width: 55px;
+    height: 37px;
+    margin-right: 18px !important;
+    background-color: transparent;
+    border: 2px solid #fff;
+}
+.main_menu button i{
+    color: #fff;
+}
+.main_menu .navbar-toggler:focus{
+    box-shadow: none;
+
+}
+.main_menu ul{
+    text-align: center;
+    gap: 0px;
+}
+.main_menu ul li{
+    margin: 8px 0 !important;
+}
+.main_menu .navbar-toggler:focus {
+    background: #fff;  
+}
+.main_menu .navbar-toggler:focus i{
+    color: #c10f41;
+}
+/* ================== menu part end ============ */
+/* ================== banner part start ============ */
+#banner {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.banner_text {
+    margin-top: 60px;
+}
+.banner_text h1 {
+    width: 100%;
+    font-size: 42px;
+    line-height: 45px;
+}
+.banner_text > p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 20px !important;
+}
+.banner_btns {
+    gap: 20px;
+}
+.banner_button a {
+    padding: 8px 16px !important;
+    letter-spacing: 2px;
+    margin-top: 30px !important;
+    margin-left: 0 !important;
+
+}
+.banner_image {
+    width: 100%;
+}
+
+/* ================== banner part end ============ */
+/* ================== about part start ============ */
+
+#about{
+padding: 50px 0;
+}
+#abouts {
+gap: 0px;
+}
+.about_item {
+height: auto;
+}
+
+.about_text h2 {
+font-size: 30px;
+margin-bottom: 20px !important;
+}
+.about_text p {
+width: 100%;
+line-height: 25px;
+margin-bottom: 20px !important;
+}
+.item_icon {
+margin: 0 auto 20px !important;
+text-align: center;
+}
+.item_text h3 {
+margin-bottom: 10px !important;
+}
+.item_text p {
+font-size: 14px;
+width: 100%;
+}
+.about_item {
+margin-bottom: 20px;
+}
+.app_items_1 {
+width: 53% !important;	
+}
+.app_items_2 {
+width: 60% !important;
+}
+.contact_right_icon .phone {
+margin-top: 9px !important;
+margin-right: 9px !important ;
+}
+/* ================== about part end ============ */
+/* ================== feature part start ============ */
+#features .about_text h2 {
+padding-top: 50px !important;
+margin-bottom: 20px !important;
+}
+#features .about_text p {
+width: 100%;
+line-height: 25px;
+margin-bottom: 40px !important;
+}
+.features_text h3 {
+text-align: center;
+width: 300px;
+color: #fff;
+font-weight: 600;
+font-size: 18px;
+margin-bottom: 25px;
+margin-bottom: 20px !important;
+}
+.features_text p {
+text-align: center;
+}
+.features_text {
+margin-left: 180%;
+}
+.features_icon {
+margin-bottom: 60px;
+margin-left: 0px;
+}
+.features_icon2 .features_text h3 {
+text-align: center;
+}
+.features_icon2 .features_text p {
+text-align: center;
+}
+.order-2 {
+
+display: none;
+}
+.features_text {
+	margin-left: 325%;
+}   
+
+/* ================== feature part end ============ */
+/* =============== bussiness part Start ============ */
+#business {
+    padding: 50px 0;
+}
+.business_pic img {
+    width: 100%;
+    height: auto;
+}
+.business_text h4 {
+     
+        width: 100%;
+        font-size: 29px;
+        
+        text-align: center;
+    
+}
+.business_text p {
+    width: 100%;
+    margin-bottom: 20px !important;;
+    line-height: 25px;
+    text-align: center;
+}
+.business_text a {
+    font-size: 14px;
+    letter-spacing: 3px;
+    margin-bottom: 30px !important;
+    
+}
+.business_text {
+    text-align: center;
+}
+.order-2{
+    display: none;
+}
+.order-3{
+    display: none;
+}
+
+/* ================== bussiness part end ============ */
+
+/* =============== testimonial part Start ============ */
+#testimonial {
+padding: 50px 0;
+
+}
+.common_heading h2 {
+    font-size: 30px;
+     margin-bottom: 10px;
+    }
+
+.common_heading p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 25px;
+}
+.test_slide {
+    padding: 0;
+}
+.test_item {
+    width: 100%;
+}
+.test_left {
+    width: 100%;
+    padding: 0 !important;
+}
+.test_item .test_left .test_img img {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #bf095d;
+}
+.test_left h4 {
+    font-weight: 400;
+    line-height: 25px;
+    font-size: 14px;
+    margin: 5px 0;
+}
+.test_left ul {
+    gap: 0;
+}
+.test_text p {
+    width: 100%;
+    font-size: 10px;
+    line-height: 15px;
+    margin-left: 5px !important;
+    margin-bottom: 10px;
+}
+.test_slide .slick-dots { 
+    gap: 5px;
+}
+.test_slide .slick-dots button {
+    width: 6px;
+    height: 6px;
+}
+.test_text p {
+	
+	font-size: 15px;
+	
+}
+/* =============== testimonial part end ============ */
+/* =============== screenshot part Start ============ */
+#screenshot {
+padding: 50px 0;
+}
+
+ 
+    /* =============== screenshot part end ============ */
+/* =============== Statistic part Start ============ */
+
+#statistic {
+padding: 50px 0;
+}
+.count_num h2 {
+font-size: 30px;
+}
+.count_num p {
+font-size: 16px;
+}
+.count_num h2 {
+    margin-top: 20px !important;
+	font-size: 50px;
+}
+/* ================== Statistic part end ============ */
+/* =============== app part Start ============ */
+#app {
+    padding: 50px 0;
+}
+.app_items_1 {
+    padding: 35px 0;
+    width: 75%;
+    height: 400px;
+    margin: 30px auto 20px !important;
+}
+.app_items_1 h5 {
+    font-size: 20px;
+}
+.app_items_1 h4 {
+    font-size: 50px;
+}
+ol, ul {
+    padding-left: 0;
+}
+.app_items_1 ul {
+    margin-bottom: 20px !important;
+}
+.app_items_1 ul li {
+    font-size: 16px;
+    line-height: 30px;
+}
+.app_items_1 a {
+    padding: 8px 10px !important;
+    margin-bottom: 20px !important;
+}
+.app_items_2 {
+        padding: 55px 0;    
+        height: 431px; 
+        margin: 0 auto;     
+}
+.app_items_2 h5 {
+    font-size: 20px;
+}
+.app_items_2 h4 {
+    font-size: 50px;
+}
+.app_items_2 ul {
+    margin-bottom: 20px !important;
+}
+.app_items_2 a {
+    padding: 8px 10px !important;
+    margin-bottom: 20px !important;
+}
+
+/* ================== app part end ============ */
+/* =================================
+        video part start 
+=================================  */
+#video {
+padding: 50px 0;
+}
+#video .vdo_heading h2 {
+font-size: 25px;
+}
+#video .vdo_heading p {
+width: 100%;
+font-size: 14px;
+line-height: 15px;
+margin: 10px auto !important;
+}
+.app_items_2 ul li {
+font-size: 16px;
+line-height: 30px;  
+}
+/* =================================
+        video part end 
+=================================  */
+/* =============== team part Start ============ */
+#team {
+padding: 50px 0;
+}
+
+/* ================== team part end ============ */
+/* =============== call part Start ============ */
+#Call {
+    padding: 50px 0;
+}
+.common_heading h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+/* ================== call part end ============ */
+/* =============== blog part Start ============ */
+#blog {
+padding: 50px 0 !important;
+}
+.blog_img h3 {
+margin-left: 10px !important;
+padding: 10px 0 15px !important;
+font-size: 16px;
+text-align: center;
+}
+.blog_img{
+margin: 0 auto;
+margin-left: -50px;
+}
+.blog_list {
+gap: 10px;
+}
+.blog_text p {
+width: 100%;
+padding: 10px 5px !important;
+font-size: 12px;
+}
+.blog_btn a {
+
+text-align: center;
+}
+.blog_slider .slick-dots {
+gap: 10px;
+}
+.w-100 {
+width: 100% !important;
+}
+.blog_slider .slick-dots button {
+
+height: 12px;
+width: 12px;
+
+}
+
+/* ================== blog part end ============ */
+/* =============== subscribe part Start ============ */
+#subscribe {
+    padding: 50px 0;
+}
+.sub_label input {
+    font-size: 12px;
+    margin-left: 15px;
+}
+.sub_label button {
+    padding: 9.5px 20px;
+    font-size: 14px;
+}
+
+/* ================== subscribe part end ============ */
+/* =============== faq part Start ============ */
+#faq {
+    padding: 50px 0;
+}
+.drop_down_part {
+    margin-top: 10px !important;
+}
+.drop_down_part li {
+    font-size: 12px;
+    line-height: 15px;
+}
+.drop_down_item span {
+    font-size: 12px;
+    line-height: 10px;
+}
+/* ================== faq part end ============ */
+ /* ================== get in touch part start ============ */
+ #getintouch {
+    padding: 50px 0;
+}
+#getintouch .form-control {
+    height: 35px;
+}
+}
+ 
+ /* ---------------------------SmaLL Device---------------------------- */
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* ================== menu part start ============ */
+     .main_menu{
+        background: -webkit-linear-gradient(-29deg, #c10f41 0, #233b88 100%);
+        padding: 6px 0 !important;
+}
+    .main_menu .navbar-logo {
+        width: 70px;
+        margin-left: 25px !important;
+    }
+    .main_menu .navbar-toggler{
+        width: 55px;
+        height: 37px;
+        margin-right: 18px !important;
+        background-color: transparent;
+        border: 2px solid #fff;
+    }
+    .main_menu button i{
+        color: #fff;
+    }
+    .main_menu .navbar-toggler:focus{
+        box-shadow: none;
+
+    }
+    .main_menu ul{
+        text-align: center;
+        gap: 0px;
+    }
+    .main_menu ul li{
+        margin: 8px 0 !important;
+    }
+    .main_menu .navbar-toggler:focus {
+        background: #fff;  
+    }
+    .main_menu .navbar-toggler:focus i{
+        color: #c10f41;
+    }
+    /* ================== menu part end ============ */
+    /* ================== banner part start ============ */
+    #banner {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .banner_text {
+        margin-top: 60px;
+    }
+    .banner_text h1 {
+        width: 100%;
+        font-size: 42px;
+        line-height: 45px;
+    }
+    .banner_text > p {
+        width: 100%;
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 20px !important;
+    }
+    .banner_btns {
+        gap: 20px;
+    }
+    .banner_button a {
+        padding: 8px 16px !important;
+        letter-spacing: 2px;
+        margin-top: 30px !important;
+        margin-left: 0 !important;
+    
+    }
+    .banner_image {
+        width: 100%;
+    }
+    
+    /* ================== banner part end ============ */
+/* ================== about part start ============ */
+
+#about{
+	padding: 50px 0;
+}
+#abouts {
+	gap: 0px;
+}
+.about_item {
+	height: auto;
+}
+
+.about_text h2 {
+	font-size: 30px;
+	margin-bottom: 20px !important;
+}
+.about_text p {
+	width: 100%;
+	line-height: 25px;
+	margin-bottom: 20px !important;
+}
+.item_icon {
+	margin: 0 auto 20px !important;
+	text-align: center;
+}
+.item_text h3 {
+	margin-bottom: 10px !important;
+}
+.item_text p {
+	font-size: 14px;
+	width: 100%;
+}
+.about_item {
+    margin-bottom: 20px;
+}
+.app_items_1 {
+	width: 53% !important;	
+}
+.app_items_2 {
+	width: 60% !important;
+}
+.contact_right_icon .phone {
+	margin-top: 9px !important;
+	margin-right: 9px !important ;
+}
+/* ================== about part end ============ */
+/* ================== feature part start ============ */
+#features .about_text h2 {
+	padding-top: 50px !important;
+	margin-bottom: 20px !important;
+}
+#features .about_text p {
+	width: 100%;
+	line-height: 25px;
+	margin-bottom: 40px !important;
+}
+.features_text h3 {
+	text-align: center;
+	width: 300px;
+	color: #fff;
+	font-weight: 600;
+	font-size: 18px;
+	margin-bottom: 25px;
+	margin-bottom: 20px !important;
+}
+.features_text p {
+	text-align: center;
+}
+.features_text {
+	margin-left: 180%;
+}
+.features_icon {
+	margin-bottom: 60px;
+	margin-left: 0px;
+}
+.features_icon2 .features_text h3 {
+	text-align: center;
+}
+.features_icon2 .features_text p {
+	text-align: center;
+}
+.order-2 {
+
+	display: none;
+}
+    /* ================== feature part end ============ */
+    /* =============== bussiness part Start ============ */
+    #business {
+        padding: 50px 0;
+    }
+    .business_pic img {
+        width: 100%;
+        height: auto;
+    }
+    .business_text h4 {
+         
+            width: 100%;
+            font-size: 29px;
+            
+            text-align: center;
+        
+    }
+    .business_text p {
+        width: 100%;
+        margin-bottom: 20px !important;;
+        line-height: 25px;
+        text-align: center;
+    }
+    .business_text a {
+        font-size: 14px;
+        letter-spacing: 3px;
+        margin-bottom: 30px !important;
+        
+    }
+    .business_text {
+        text-align: center;
+    }
+    /* .order-3{
+        display: none;
+    } */
+    /* ================== bussiness part end ============ */
+    
+/* =============== testimonial part Start ============ */
+#testimonial {
+	padding: 50px 0;
+    
+}
+    .common_heading h2 {
+        font-size: 30px;
+         margin-bottom: 10px;
+        }
+    
+    .common_heading p {
+        width: 100%;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .test_slide {
+        padding: 0;
+    }
+    .test_item {
+        width: 100%;
+    }
+    .test_left {
+        width: 100%;
+        padding: 0 !important;
+    }
+    .test_item .test_left .test_img img {
+        width: 40px;
+        height: 40px;
+        border: 1px solid #bf095d;
+    }
+    .test_left h4 {
+        font-weight: 400;
+        line-height: 25px;
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .test_left ul {
+        gap: 0;
+    }
+    .test_text p {
+        width: 100%;
+        font-size: 10px;
+        line-height: 15px;
+        margin-left: 5px !important;
+        margin-bottom: 10px;
+    }
+    .test_slide .slick-dots { 
+        gap: 5px;
+    }
+    .test_slide .slick-dots button {
+        width: 6px;
+        height: 6px;
+    }
+/* =============== testimonial part end ============ */
+/* =============== screenshot part Start ============ */
+#screenshot {
+	padding: 50px 0;
+}
+
+     
+        /* =============== screenshot part end ============ */
+/* =============== Statistic part Start ============ */
+
+#statistic {
+	padding: 50px 0;
+}
+.count_num h2 {
+	font-size: 30px;
+}
+.count_num p {
+	font-size: 16px;
+}
+    /* ================== Statistic part end ============ */
+    /* =============== app part Start ============ */
+    #app {
+        padding: 50px 0;
+    }
+    .app_items_1 {
+        padding: 20px 0;
+        width: 75%;
+        height: 355px;
+        margin: 30px auto 20px !important;
+    }
+    .app_items_1 h5 {
+        font-size: 20px;
+    }
+    .app_items_1 h4 {
+        font-size: 50px;
+    }
+    ol, ul {
+        padding-left: 0;
+    }
+    .app_items_1 ul {
+        margin-bottom: 20px !important;
+    }
+    .app_items_1 ul li {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .app_items_1 a {
+        padding: 8px 10px !important;
+        margin-bottom: 20px !important;
+    }
+    .app_items_2 {
+        padding: 20px 0;
+        width: 80%;
+        height: 360px;
+        margin: 0 auto;
+    }
+    .app_items_2 h5 {
+        font-size: 20px;
+    }
+    .app_items_2 h4 {
+        font-size: 50px;
+    }
+    .app_items_2 ul {
+        margin-bottom: 20px !important;
+    }
+    .app_items_2 a {
+        padding: 8px 10px !important;
+        margin-bottom: 20px !important;
+    }
+    /* ================== app part end ============ */
+/* =================================
+            video part start 
+ =================================  */
+ #video {
+	padding: 50px 0;
+}
+ #video .vdo_heading h2 {
+	font-size: 25px;
+}
+#video .vdo_heading p {
+	width: 100%;
+	font-size: 14px;
+	line-height: 15px;
+	margin: 10px auto !important;
+}
+.app_items_2 ul li {
+	font-size: 16px;
+	line-height: 30px;  
+}
+/* =================================
+            video part end 
+ =================================  */
+/* =============== team part Start ============ */
+#team {
+	padding: 50px 0;
+}
+
+    /* ================== team part end ============ */
+    /* =============== call part Start ============ */
+    #Call {
+        padding: 50px 0;
+    }
+    .common_heading h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    /* ================== call part end ============ */
+/* =============== blog part Start ============ */
+#blog {
+	padding: 50px 0 !important;
+}
+.blog_img h3 {
+	margin-left: 10px !important;
+	padding: 10px 0 15px !important;
+	font-size: 16px;
+}
+.blog_img{
+    margin: 0 auto;
+}
+.blog_list {
+	gap: 10px;
+}
+.blog_text p {
+	width: 100%;
+	padding: 10px 5px !important;
+	font-size: 12px;
+}
+.blog_btn a {
+	margin-left: 60px !important;
+}
+.blog_slider .slick-dots {
+	gap: 10px;
+}
+.w-100 {
+	width: 100% !important;
+}
+.blog_slider .slick-dots button {
+	
+	height: 12px;
+	width: 12px;
+	
+}
+    /* ================== blog part end ============ */
+    /* =============== subscribe part Start ============ */
+    #subscribe {
+        padding: 50px 0;
+    }
+    .sub_label input {
+        font-size: 12px;
+        margin-left: 15px;
+    }
+    .sub_label button {
+        padding: 9.5px 20px;
+        font-size: 14px;
+    }
+    
+    /* ================== subscribe part end ============ */
+    /* =============== faq part Start ============ */
+    #faq {
+        padding: 50px 0;
+    }
+    .drop_down_part {
+        margin-top: 10px !important;
+    }
+    .drop_down_part li {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .drop_down_item span {
+        font-size: 12px;
+        line-height: 10px;
+    }
+    /* ================== faq part end ============ */
+     /* ================== get in touch part start ============ */
+     #getintouch {
+        padding: 50px 0;
+    }
+    #getintouch .form-control {
+        height: 35px;
+    }
+}
+ 
+
+/*------------------------------------ X-small---------------------------------------- */
+@media (max-width: 575px) {
+
+    /* ================== menu part start ============ */
+    .main_menu{
+        background: -webkit-linear-gradient(-29deg, #c10f41 0, #233b88 100%);
+        padding: 6px 0 !important;
+}
+    .main_menu .navbar-logo {
+        width: 70px;
+        margin-left: 25px !important;
+    }
+    .main_menu .navbar-toggler{
+        width: 55px;
+        height: 37px;
+        margin-right: 18px !important;
+        background-color: transparent;
+        border: 2px solid #fff;
+    }
+    .main_menu button i{
+        color: #fff;
+    }
+    .main_menu .navbar-toggler:focus{
+        box-shadow: none;
+
+    }
+    .main_menu ul{
+        text-align: center;
+        gap: 0px;
+    }
+    .main_menu ul li{
+        margin: 8px 0 !important;
+    }
+    .main_menu .navbar-toggler:focus {
+        background: #fff;  
+    }
+    .main_menu .navbar-toggler:focus i{
+        color: #c10f41;
+    }
+    /* ================== menu part end ============ */
+    /* ================== banner part start ============ */
+    #banner {
+        padding-top: 165px;
+        padding-bottom: 50px;
+    }
+    .banner_text h1 {
+        width: 100%;
+        font-size: 45px;    
+        line-height: 55px;
+    }
+    .banner_text > p {
+        width: 100%;
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 20px !important;
+    }
+    .banner_btns {
+        gap: 20px;
+    }
+    .banner_button a {
+        padding: 8px 16px !important;
+        letter-spacing: 2px;
+        margin-top: 30px !important;
+        margin-left: 0 !important;
+    
+    }
+    .banner_image {
+        width: 100%;
+    }
+    
+    /* ================== banner part end ============ */
+/* ================== about part start ============ */
+
+#about{
+	padding: 50px 0;
+}
+#abouts {
+	gap: 0px;
+}
+.about_item {
+	height: auto;
+}
+
+.about_text h2 {
+	font-size: 30px;
+	margin-bottom: 20px !important;
+}
+.about_text p {
+	width: 100%;
+	line-height: 25px;
+	margin-bottom: 20px !important;
+}
+.item_icon {
+	margin: 0 auto 20px !important;
+	text-align: center;
+}
+.item_text h3 {
+	margin-bottom: 10px !important;
+}
+.item_text p {
+	font-size: 14px;
+	width: 100%;
+}
+
+/* ================== about part end ============ */
+/* ================== feature part start ============ */
+#features .about_text h2 {
+	padding-top: 50px !important;
+	margin-bottom: 20px !important;
+}
+#features .about_text p {
+	width: 100%;
+	line-height: 25px;
+	margin-bottom: 40px !important;
+}
+.features_text h3 {
+	text-align: center;
+	width: 300px;
+	color: #fff;
+	font-weight: 600;
+	font-size: 18px;
+	margin-bottom: 25px;
+	margin-bottom: 20px !important;
+}
+.features_text p {
+	text-align: center;
+}
+.features_text {
+	margin-left: 0;
+}
+.features_icon {
+	margin-bottom: 60px;
+	margin-left: 0px;
+}
+.features_icon2 .features_text h3 {
+	text-align: center;
+}
+.features_icon2 .features_text p {
+	text-align: center;
+}
+.order-2 {
+
+	display: none;
+}
+    /* ================== feature part end ============ */
+    /* =============== bussiness part Start ============ */
+    #business {
+        padding: 50px 0;
+    }
+    .business_pic img {
+        width: 100%;
+        height: auto;
+    }
+    .business_text h4 {
+         
+            width: 100%;
+            font-size: 29px;
+            
+            text-align: center;
+        
+    }
+    .business_text p {
+        width: 100%;
+        margin-bottom: 20px !important;;
+        line-height: 25px;
+        text-align: center;
+    }
+    .business_text a {
+        font-size: 14px;
+        letter-spacing: 3px;
+        margin-bottom: 30px !important;
+        margin-left: 60px !important;
+    }
+    /* ================== bussiness part end ============ */
+    
+/* =============== testimonial part Start ============ */
+#testimonial {
+	padding: 50px 0;
+    
+}
+    .common_heading h2 {
+        font-size: 30px;
+         margin-bottom: 10px;
+        }
+    
+    .common_heading p {
+        width: 100%;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .test_slide {
+        padding: 0;
+    }
+    .test_item {
+        width: 100%;
+    }
+    .test_left {
+        width: 100%;
+        padding: 0 !important;
+    }
+    .test_item .test_left .test_img img {
+        width: 40px;
+        height: 40px;
+        border: 1px solid #bf095d;
+    }
+    .test_left h4 {
+        font-weight: 400;
+        line-height: 25px;
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    .test_left ul {
+        gap: 0;
+    }
+    .test_text p {
+        width: 100%;
+        font-size: 10px;
+        line-height: 15px;
+        margin-left: 5px !important;
+        margin-bottom: 10px;
+    }
+    .test_slide .slick-dots { 
+        gap: 5px;
+    }
+    .test_slide .slick-dots button {
+        width: 6px;
+        height: 6px;
+    }
+/* =============== testimonial part end ============ */
+/* =============== screenshot part Start ============ */
+#screenshot {
+	padding: 50px 0;
+}
+
+     
+        /* =============== screenshot part end ============ */
+/* =============== Statistic part Start ============ */
+
+#statistic {
+	padding: 50px 0;
+}
+.count_num h2 {
+	font-size: 40px;
+}
+.count_num p {
+	font-size: 16px;
+}
+    /* ================== Statistic part end ============ */
+    /* =============== app part Start ============ */
+    #app {
+        padding: 50px 0;
+    }
+    .app_items_1 {
+        padding: 20px 0;
+        width: 75%;
+        height: 355px;
+        margin: 30px auto 20px !important;
+    }
+    .app_items_1 h5 {
+        font-size: 20px;
+    }
+    .app_items_1 h4 {
+        font-size: 50px;
+    }
+    ol, ul {
+        padding-left: 0;
+    }
+    .app_items_1 ul {
+        margin-bottom: 20px !important;
+    }
+    .app_items_1 ul li {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .app_items_1 a {
+        padding: 8px 10px !important;
+        margin-bottom: 20px !important;
+    }
+    .app_items_2 {
+        padding: 20px 0;
+        width: 80%;
+        height: 360px;
+        margin: 0 auto;
+    }
+    .app_items_2 h5 {
+        font-size: 20px;
+    }
+    .app_items_2 h4 {
+        font-size: 50px;
+    }
+    .app_items_2 ul {
+        margin-bottom: 20px !important;
+    }
+    .app_items_2 a {
+        padding: 8px 10px !important;
+        margin-bottom: 20px !important;
+    }
+    /* ================== app part end ============ */
+/* =================================
+            video part start 
+ =================================  */
+ #video {
+	padding: 50px 0;
+}
+ #video .vdo_heading h2 {
+	font-size: 25px;
+}
+#video .vdo_heading p {
+	width: 100%;
+	font-size: 14px;
+	line-height: 15px;
+	margin: 10px auto !important;
+}
+.app_items_2 ul li {
+	font-size: 16px;
+	line-height: 30px;  
+}
+/* =================================
+            video part end 
+ =================================  */
+/* =============== team part Start ============ */
+#team {
+	padding: 50px 0;
+}
+
+    /* ================== team part end ============ */
+    /* =============== call part Start ============ */
+    #Call {
+        padding: 50px 0;
+    }
+    .common_heading h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    /* ================== call part end ============ */
+/* =============== blog part Start ============ */
+#blog {
+	padding: 50px 0 !important;
+}
+
+.blog_img h3 {
+	margin-left: 10px !important;
+	padding: 10px 0 15px !important;
+	font-size: 16px;
+}
+.blog_list {
+	gap: 10px;
+}
+.blog_text p {
+	width: 100%;
+	padding: 10px 5px !important;
+	font-size: 12px;
+}
+.blog_btn a {
+	margin-left: 60px !important;
+}
+.blog_slider .slick-dots {
+	gap: 10px;
+}
+.w-100 {
+	width: 100% !important;
+}
+.blog_slider .slick-dots button {
+	
+	height: 12px;
+	width: 12px;
+	
+}
+    /* ================== blog part end ============ */
+    /* =============== subscribe part Start ============ */
+    #subscribe {
+        padding: 50px 0;
+    }
+    .sub_label input {
+        font-size: 12px;
+        margin-left: 15px;
+    }
+    .sub_label button {
+        padding: 9.5px 20px;
+        font-size: 14px;
+    }
+    
+    /* ================== subscribe part end ============ */
+    /* =============== faq part Start ============ */
+    #faq {
+        padding: 50px 0;
+    }
+    .drop_down_part {
+        margin-top: 10px !important;
+    }
+    .drop_down_part li {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .drop_down_item span {
+        font-size: 12px;
+        line-height: 10px;
+    }
+    /* ================== faq part end ============ */
+     /* ================== get in touch part start ============ */
+     #getintouch {
+        padding: 50px 0;
+    }
+    #getintouch .form-control {
+        height: 35px;
+    }
+    /* .row {
+        --bs-gutter-y: 0px;
+    } */
+/* ================== get in touch part start ============ */
+   /* ================== about part start ============ */
+/* ================== about part start ============ */
+   /* ================== about part start ============ */
+/* ================== about part start ============ */
+   /* ================== about part start ============ */
+/* ================== about part start ============ */
+   /* ================== about part start ============ */
+/* ================== about part start ============ */
+
+
+}
